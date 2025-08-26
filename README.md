@@ -2,7 +2,7 @@
 **Winning app of the Swift Student Challenge 2025 By apple**
 
 **Command Quest** es una app interactiva desarrollada para el **Apple Swift Student Challenge 2025 (SSC 2025)**.  
-Su objetivo es enseñar de manera **lúdica y visual** los principales comandos de **Unix y sistemas operativos**, a través de una narrativa espacial inspirada en la exploración de mundos digitales.  
+Su objetivo es enseñar de manera **lúdica y visual** los principales comandos de **Unix y sistemas operativos**, a través de una narrativa espacial inspirada en la exploración de niveles digitales.  
 
 El estilo visual y la paleta de colores están inspirados en el **EVA-01** de *Neon Genesis Evangelion*.  
 
@@ -19,9 +19,9 @@ El estilo visual y la paleta de colores están inspirados en el **EVA-01** de *N
 ## 🎮 Características principales
 - **Aprendizaje interactivo:** los usuarios aprenden comandos básicos y avanzados de Unix de forma práctica.  
 - **Misiones progresivas:** cada nivel presenta un reto diferente (navegar directorios, crear archivos, permisos, procesos, etc.).  
-- **Narrativa espacial:** el jugador es un explorador digital que avanza dominando comandos para desbloquear nuevas áreas.  
+- **Narrativa espacial:** el jugador es un explorador digital que avanza dominando comandos para pasar al siguiente nivel.  
 - **Diseño EVA-01:** paleta de colores púrpura, verde y negro, con tipografía y estilo inspirado en *Evangelion*.  
-- **Entorno seguro:** los comandos se simulan, sin riesgo de alterar el sistema real del usuario.  
+- **Entorno seguro:** los comandos se simulan, sin riesgo de alterar el sistema real del usuario :).  
 
 ---
 
